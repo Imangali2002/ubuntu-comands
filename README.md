@@ -1,4 +1,9 @@
 ## ubuntu-comands
+### Удаление библиотек<br>
+```dpkg --list``` - найти название библиотеки
+```sudo apt-get remove package-name``` - удаление библиотеки
+```sudo apt-get purge package-name``` - удаление персональных настроек
+
 ### Архивы<br>
 
 ```tar -cvf archive.tar.gz /path/to/files``` - архивировать файлы <br>
