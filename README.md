@@ -1,8 +1,9 @@
 ## ubuntu-comands
 ### Удаление библиотек<br>
-```dpkg --list``` - найти название библиотеки
-```sudo apt-get remove package-name``` - удаление библиотеки
-```sudo apt-get purge package-name``` - удаление персональных настроек
+```dpkg --list``` - найти название библиотеки<br>
+```sudo apt-get remove package-name``` - удаление библиотеки<br>
+```sudo apt-get purge package-name``` - удаление персональных настроек<br>
+```sudo apt-get autoremove``` - удалить все устаревшие и неиспользуемые упакованные и оставшиеся зависимости<br>
 
 ### Архивы<br>
 
