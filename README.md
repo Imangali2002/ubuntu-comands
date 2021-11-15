@@ -15,6 +15,7 @@
 ```wget github.com/thiggy01/change-gdm-background/raw/master/change-gdm-background``` - загрузить скрипт<br>
 ```chmod +x change-gdm-background``` - установить его как исполняемый файл<br>
 ```sudo ./change-gdm-background /path/to/image```  - изменить фон<br>
+<div color='green'>login image sucessfully changed<div>
 ```sudo ./change-gdm-background --restore``` - восстановить исходную тему
 
 ### Скачать blob видео<br>
