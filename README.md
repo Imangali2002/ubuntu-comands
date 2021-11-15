@@ -3,12 +3,19 @@
 ```dpkg --list``` - найти название библиотеки<br>
 ```sudo apt-get remove package-name``` - удаление библиотеки<br>
 ```sudo apt-get purge package-name``` - удаление персональных настроек<br>
-```sudo apt-get autoremove``` - удалить все устаревшие и неиспользуемые упакованные и оставшиеся зависимости<br>
+```sudo apt-get autoremove``` - удалить все устаревшие и неиспользуемые упакованные и оставшиеся зависимости
 
 ### Архивы<br>
 
 ```tar -cvf archive.tar.gz /path/to/files``` - архивировать файлы <br>
 ```tar -xvf archive.tar.gz``` - чтобы распаковать архив 
+
+### Изменить фоновое изображение в экране блокировки<br>
+
+```wget github.com/thiggy01/change-gdm-background/raw/master/change-gdm-background``` - загрузить скрипт<br>
+```chmod +x change-gdm-background``` - установить его как исполняемый файл<br>
+```sudo ./change-gdm-background /path/to/image```  - изменить фон<br>
+```sudo ./change-gdm-background --restore``` - восстановить исходную тему
 
 ### Скачать blob видео<br>
 1. Найти в 'Network'-е 'file.m3u8' запрос на сервер 
