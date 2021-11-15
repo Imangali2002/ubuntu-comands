@@ -21,4 +21,7 @@ login image sucessfully changed<br>
 ### Скачать blob видео<br>
 1. Найти в 'Network'-е 'file.m3u8' запрос на сервер 
 2. Использовать url в 'Request URL': 'https://path/video.m3u8'
-3. Запустить команду ```ffmpeg -i 'https://path/video.m3u8' -c copy -bsf:a aac_adtstoasc 'video.mp4'```
+3. Запустить команду ```ffmpeg -i 'https://path/video.m3u8' -c copy -bsf:a aac_adtstoasc 'video.mp4'``  ```
+
+### Убрать точки в запущенных программах<br>
+```gsettings set org.gnome.shell.extensions.dash-to-dock custom-theme-running-dots 'false'``` 
