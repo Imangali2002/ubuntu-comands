@@ -65,8 +65,14 @@ ffmpeg -i 'https://path/video.m3u8' -c copy -bsf:a aac_adtstoasc 'video.mp4'
 gsettings set org.gnome.shell.extensions.dash-to-dock custom-theme-running-dots 'false'
 # true/false
 ```
-### Конвертация pptx в pdf<br>
+### Конвертация файлов в pdf<br>
 ```sh
-libreoffice --headless --invisible --convert-to pdf *.pptx
+libreoffice --headless --invisible --convert-to pdf './path/file'
+# файлы в pdf
+# * конвертирует все файлы
 ```
 
+### Слияние pdf документов<br>
+```sh
+pdfunite input1.pdf input2.pdf *.pdf output.pdf
+```
