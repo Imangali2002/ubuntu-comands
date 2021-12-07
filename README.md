@@ -81,3 +81,9 @@ https://github.com/dmo60/CoverflowAltTab
 
 ### CoverflowAltTab<br>
 https://github.com/dmo60/CoverflowAltTab
+
+### Desktop Icons NG (DING)<br>
+https://extensions.gnome.org/extension/2087/desktop-icons-ng-ding/
+
+### Vitals(monitor pc)<br>
+https://extensions.gnome.org/extension/1460/vitals/
