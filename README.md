@@ -17,7 +17,7 @@ sudo apt-get autoremove
 # удалить все устаревшие и неиспользуемые упакованные и оставшиеся зависимости
 ```
 
-### Архивы<br>
+### Архивы  
 
 ```sh
 tar -cvf archive.tar.gz /path/to/files
@@ -51,7 +51,7 @@ sudo ./change-gdm-background --restore
 # восстановить исходную тему
 ```
 
-### Скачать blob видео<br>
+### Скачать blob видео  
 1. Найти в 'Network'-е 'file.m3u8' запрос на сервер 
 2. Использовать url в 'Request URL': 'https://path/video.m3u8'
 3. Запустить команду
@@ -60,30 +60,30 @@ ffmpeg -i 'https://path/video.m3u8' -c copy -bsf:a aac_adtstoasc 'video.mp4'
 # video.mp4 видео на выходе
 ```
 
-### Убрать точки в запущенных программах<br>
+### Убрать точки в запущенных программах  
 ```sh
 gsettings set org.gnome.shell.extensions.dash-to-dock custom-theme-running-dots 'false'
 # true/false
 ```
-### Конвертация файлов в pdf<br>
+### Конвертация файлов в pdf   
 ```sh
 libreoffice --headless --invisible --convert-to pdf './path/file'
 # файлы в pdf
 # * конвертирует все файлы
 ```
 
-### Слияние pdf документов<br>
+### Слияние pdf документов  
 ```sh
 pdfunite input1.pdf input2.pdf *.pdf output.pdf
 ```
-### libinput-gesture<br>
+### libinput-gesture  
 https://github.com/dmo60/CoverflowAltTab
 
-### CoverflowAltTab<br>
+### CoverflowAltTab  
 https://github.com/dmo60/CoverflowAltTab
 
-### Vitals(monitor pc)<br>
+### Vitals(monitor pc)  
 https://extensions.gnome.org/extension/1460/vitals/
 
-### Control Fans mode for linux<br>
+### Control Fans mode for linux  
 https://askubuntu.com/questions/1254364/how-to-control-fans-on-an-asus-laptop
