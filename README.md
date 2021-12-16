@@ -84,3 +84,6 @@ https://github.com/dmo60/CoverflowAltTab
 
 ### Vitals(monitor pc)<br>
 https://extensions.gnome.org/extension/1460/vitals/
+
+### Control Fans mode for linux<br>
+https://askubuntu.com/questions/1254364/how-to-control-fans-on-an-asus-laptop
