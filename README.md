@@ -77,7 +77,7 @@ libreoffice --headless --invisible --convert-to pdf './path/file'
 pdfunite input1.pdf input2.pdf *.pdf output.pdf
 ```
 ### libinput-gesture  
-https://github.com/dmo60/CoverflowAltTab
+https://github.com/bulletmark/libinput-gestures
 
 ### CoverflowAltTab  
 https://github.com/dmo60/CoverflowAltTab
