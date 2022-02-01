@@ -1,4 +1,9 @@
 ## ubuntu-comands
+### Task Manager
+```sh
+gnome-system-monitor
+```
+
 ### Удаление библиотек
 ```sh
 dpkg --list
