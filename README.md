@@ -7,7 +7,7 @@ gnome-system-monitor
 ### Удаление библиотек
 ```sh
 dpkg --list
-# найти название библиотеки
+найти название библиотеки
 ```
 ```sh
 sudo apt-get remove package-name
@@ -73,9 +73,9 @@ gsettings set org.gnome.shell.extensions.dash-to-dock custom-theme-running-dots 
 ### Конвертация файлов в pdf   
 ```sh
 libreoffice --headless --invisible --convert-to pdf './path/file'
-# файлы в pdf
-# * конвертирует все файлы
 ```
+файлы в pdf
+* конвертирует все файлы
 
 ### Слияние pdf документов  
 ```sh
