@@ -92,3 +92,6 @@ https://extensions.gnome.org/extension/1460/vitals/
 
 ### Control Fans mode for linux  
 https://askubuntu.com/questions/1254364/how-to-control-fans-on-an-asus-laptop
+
+### GREP regular expressions
+https://www.digitalocean.com/community/tutorials/using-grep-regular-expressions-to-search-for-text-patterns-in-linux
