@@ -95,3 +95,6 @@ https://askubuntu.com/questions/1254364/how-to-control-fans-on-an-asus-laptop
 
 ### GREP regular expressions
 https://www.digitalocean.com/community/tutorials/using-grep-regular-expressions-to-search-for-text-patterns-in-linux
+
+### ОШИБКА У ВАС ЗАФИКСИРОВАНЫ СЛОМАННЫЕ ПАКЕТЫ
+https://losst.ru/oshibka-u-vas-zafiksirovany-slomannye-pakety
