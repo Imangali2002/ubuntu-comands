@@ -98,3 +98,9 @@ https://www.digitalocean.com/community/tutorials/using-grep-regular-expressions-
 
 ### ОШИБКА У ВАС ЗАФИКСИРОВАНЫ СЛОМАННЫЕ ПАКЕТЫ
 https://losst.ru/oshibka-u-vas-zafiksirovany-slomannye-pakety
+
+### Установка драйвера видеокарты и cuda
+1. https://forums.developer.nvidia.com/t/nvidia-smi-has-failed-because-it-couldnt-communicate-with-the-nvidia-driver-make-sure-that-the-latest-nvidia-driver-is-installed-and-running/197141/5
+2. a) https://www.cyberciti.biz/faq/ubuntu-linux-install-nvidia-driver-latest-proprietary-driver/
+   b) https://denishartl.com/installing-cuda-11-3-cudnn-tensorflow-2-4-jupyter-on-a-headless-ubuntu-20-04-server/
+3. https://developer.nvidia.com/cuda-11.3.0-download-archive
