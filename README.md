@@ -104,3 +104,7 @@ https://losst.ru/oshibka-u-vas-zafiksirovany-slomannye-pakety
 2. a) https://www.cyberciti.biz/faq/ubuntu-linux-install-nvidia-driver-latest-proprietary-driver/ <br>
    b) https://denishartl.com/installing-cuda-11-3-cudnn-tensorflow-2-4-jupyter-on-a-headless-ubuntu-20-04-server/
 3. https://developer.nvidia.com/cuda-11.3.0-download-archive
+
+
+### Manage RAM
+```htop
