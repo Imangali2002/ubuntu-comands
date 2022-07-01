@@ -107,4 +107,4 @@ https://losst.ru/oshibka-u-vas-zafiksirovany-slomannye-pakety
 
 
 ### Manage RAM
-```htop
+```htop```
